@@ -9,7 +9,7 @@ AGH Machine Learning Course
 Data source : [Kagle Titanic Dataset](https://www.kaggle.com/competitions/titanic/data)
 
 1.  **lab5** - analysis of missing values
-2.  **lab5_cardinity** - cardinality analysis of features
+2.  **lab5_cardinality** - cardinality analysis of features
 
 ## Lab 6
 
